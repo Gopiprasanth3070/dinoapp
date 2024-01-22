@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: gopiprasanth3070/docker
+  repository: "gopiprasanth3070/docker"
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "dino-app-01"
